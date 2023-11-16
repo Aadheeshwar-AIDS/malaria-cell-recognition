@@ -1,4 +1,4 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+# EX:04 Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
@@ -45,8 +45,8 @@ We evaluate the trained model's performance using the testing data, generating a
 
 ## PROGRAM
 ```
- Developed by: Vineesh.M  
- Reg No: 212221230122
+ Developed by: AADHEESHWAR.A  
+ Reg No: 212221230001
 ```
 
 ```
